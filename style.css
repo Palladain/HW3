@@ -6,6 +6,7 @@
 .foot{ 
     display: flex;
     justify-content: center;
+    font-family: 'Roboto', sans-serif;
 }
 .title{
     margin-top: 0px;
@@ -34,6 +35,7 @@
     background-color: lightseagreen;
     border-radius: 10px;
     padding: 10px;
+    font-family: 'Roboto', sans-serif;
 }
 .section{
     display:flex;
@@ -57,4 +59,10 @@
 }
 .ads{
     width: 70%;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
 }
