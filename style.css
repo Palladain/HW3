@@ -1,0 +1,60 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.foot{ 
+    display: flex;
+    justify-content: center;
+}
+.title{
+    margin-top: 0px;
+}
+.main{
+    display: flex;
+    flex-flow: row;
+}
+.other{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 5%;
+}
+.article{
+    display:flex;
+    justify-content: center;
+    flex-flow: column;
+}
+.navigator{
+    width: 12%;
+    display: flex;
+    align-items: center;
+    background-color: lightseagreen;
+    border-radius: 10px;
+    padding: 10px;
+}
+.section{
+    display:flex;
+    flex-flow: column;
+    background-color: lightgreen;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+.aside{
+    display:flex;
+    width: 10%;
+    flex-flow: column;
+    justify-content: center;
+}
+.full_ad{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.ads{
+    width: 70%;
+}
